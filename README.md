@@ -2,7 +2,7 @@
 
 When I wrote Minesweeper, I wanted to draw stars but didn't see a direct way in raylib to do it. (Please let me know if I missed it.) This is a quick app to explore the way I draw stars in raylib. It has the most value when it's run while reading/modifying the code.
 
-![alt text](docs/stars.png)
+![stars app](docs/stars.png "Stars App")
 
 # Build
 
